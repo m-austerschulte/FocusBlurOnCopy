@@ -2,7 +2,7 @@
     "load": {
         "allowedBundles": [
             "map-init@^4.17.0",
-            "sample_camera@^1.0.0-0",
+            "focus-blur-on-copy@^1.0.0-0",
             "splashscreen@^4.17.0",
             "system@^4.17.0",
             "templatelayout@^4.17.0",
